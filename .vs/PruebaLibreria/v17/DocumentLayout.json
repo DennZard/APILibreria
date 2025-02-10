@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\pruebalibreria\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\admin\\source\\repos\\pruebalibreria\\pruebalibreria\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\admin\\source\\repos\\pruebalibreria\\pruebalibreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\pruebalibreria\\sql\\dto_libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\sql\\dto_libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\pruebalibreria\\models\\requestlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\models\\requestlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\pruebalibreria\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\pruebalibreria\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\PruebaLibreria\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\PruebaLibreria\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "PruebaLibreria\\Controllers\\UploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:52:21.702Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\PruebaLibreria\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\PruebaLibreria\\Models\\Libro.cs",
+              "RelativeToolTip": "PruebaLibreria\\Models\\Libro.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:21:42.891Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\PruebaLibreria\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\PruebaLibreria\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "PruebaLibreria\\Controllers\\AutoresController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:50:05.548Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\PruebaLibreria\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\PruebaLibreria\\Models\\Request.cs",
+              "RelativeToolTip": "PruebaLibreria\\Models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:36:31.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestLibro.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\PruebaLibreria\\Models\\RequestLibro.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Models\\RequestLibro.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\PruebaLibreria\\Models\\RequestLibro.cs",
+              "RelativeToolTip": "PruebaLibreria\\Models\\RequestLibro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:59:12.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DTO_Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\PruebaLibreria\\Sql\\DTO_Libro.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Sql\\DTO_Libro.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\PruebaLibreria\\Sql\\DTO_Libro.cs",
+              "RelativeToolTip": "PruebaLibreria\\Sql\\DTO_Libro.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:02:46.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\PruebaLibreria\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PruebaLibreria\\PruebaLibreria\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "PruebaLibreria\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:57:13.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
