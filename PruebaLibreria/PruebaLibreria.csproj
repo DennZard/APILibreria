@@ -218,6 +218,7 @@
     <Compile Include="Controllers\LibrosController.cs" />
     <Compile Include="Controllers\TemasController.cs" />
     <Compile Include="Controllers\UploadController.cs" />
+    <Compile Include="Controllers\UsuariosController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -227,8 +228,10 @@
     <Compile Include="Models\Libro.cs" />
     <Compile Include="Models\Request.cs" />
     <Compile Include="Models\RequestLibro.cs" />
+    <Compile Include="Models\RequestUsuario.cs" />
     <Compile Include="Models\Response.cs" />
     <Compile Include="Models\Tema.cs" />
+    <Compile Include="Models\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sql\DAO.cs" />
     <Compile Include="Sql\DTO_Edicion.cs" />
@@ -236,6 +239,7 @@
     <Compile Include="Sql\DTO_Autor.cs" />
     <Compile Include="Sql\DTO_Libro.cs" />
     <Compile Include="Sql\DTO_Tema.cs" />
+    <Compile Include="Sql\DTO_Usuario.cs" />
     <Compile Include="Sql\GetConnectionDAO.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -25,11 +25,12 @@ namespace PruebaLibreria.Sql
                     t.id = reader.GetFieldValue<int>(0);
                     t.nombre= reader.GetFieldValue<String>(1);
                     t.isbn = reader.GetFieldValue<String>(2);
-                    t.tema = reader.GetFieldValue<String>(3);
-                    t.formato = reader.GetFieldValue<String>(4);
-                    t.autor = reader.GetFieldValue<String>(5);
-                    t.edicion = reader.GetFieldValue<String>(6);
-                    t.precio = reader.GetFieldValue<Double>(7);
+                    t.cantidad = reader.GetFieldValue<int>(3);
+                    t.tema = reader.GetFieldValue<String>(4);
+                    t.formato = reader.GetFieldValue<String>(5);
+                    t.autor = reader.GetFieldValue<String>(6);
+                    t.edicion = reader.GetFieldValue<String>(7);
+                    t.precio = reader.GetFieldValue<Double>(8);
                     t.imgName = reader.GetFieldValue<String>(1) + ".jpg";
                     listaLibros.Add(t);
                 }
@@ -61,8 +62,6 @@ namespace PruebaLibreria.Sql
                 sql = sql.Replace("formato", request.formato);
                 sql = sql.Replace("cantidad", request.cantidad.ToString());
                 sql = sql.Replace("isbn", request.isbn);
-
-                UploadController uploadController;
 
                 cmd.CommandText = sql;
 
