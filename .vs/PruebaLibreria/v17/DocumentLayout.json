@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\pruebalibreria\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\admin\\desktop\\my github\\apilibreria\\pruebalibreria\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\admin\\desktop\\my github\\apilibreria\\pruebalibreria\\sql\\dto_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\pruebalibreria\\sql\\dto_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\sql\\dto_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -65,7 +65,7 @@
               "RelativeDocumentMoniker": "PruebaLibreria\\Controllers\\UsuariosController.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\PruebaLibreria\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "PruebaLibreria\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBcAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T22:09:57.653Z",
               "EditorCaption": ""
@@ -80,8 +80,7 @@
               "RelativeToolTip": "PruebaLibreria\\Sql\\DTO_Usuario.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAIwFsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T12:28:57.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T12:28:57.422Z"
             },
             {
               "$type": "Document",
