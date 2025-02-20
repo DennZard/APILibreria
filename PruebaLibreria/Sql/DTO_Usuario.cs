@@ -60,8 +60,8 @@ namespace PruebaLibreria.Sql
 
                 var cmd = connection.CreateCommand();
                 var sql = @"call isUserRegister('@email', '@psw')";
-                sql.Replace("@email", request.email);
-                sql.Replace("@psw", request.psw);
+                sql = sql.Replace("@email", request.email);
+                sql = sql.Replace("@psw", crypt);
                 cmd.CommandText = sql;
 
                 connection.Open();

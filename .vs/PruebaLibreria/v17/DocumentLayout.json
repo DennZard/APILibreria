@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\admin\\desktop\\my github\\apilibreria\\pruebalibreria\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\pruebalibreria\\sql\\dto_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\admin\\desktop\\my github\\apilibreria\\pruebalibreria\\sql\\dto_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\sql\\dto_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\pruebalibreria\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\pruebalibreria\\models\\requestusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\models\\requestusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\pruebalibreria\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\pruebalibreria\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\pruebalibreria\\controllers\\formatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\controllers\\formatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\pruebalibreria\\models\\requestusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\models\\requestusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\pruebalibreria\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\pruebalibreria\\controllers\\formatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\controllers\\formatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\pruebalibreria\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC94FBF-80CA-4F13-A0FD-9FAE6907EE28}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -59,32 +59,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\PruebaLibreria\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "PruebaLibreria\\Controllers\\UsuariosController.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\PruebaLibreria\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "PruebaLibreria\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T22:09:57.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T22:09:57.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DTO_Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\PruebaLibreria\\Sql\\DTO_Usuario.cs",
               "RelativeDocumentMoniker": "PruebaLibreria\\Sql\\DTO_Usuario.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\PruebaLibreria\\Sql\\DTO_Usuario.cs",
               "RelativeToolTip": "PruebaLibreria\\Sql\\DTO_Usuario.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAIwFsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAuwD8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T12:28:57.422Z"
+              "WhenOpened": "2025-02-12T12:28:57.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "LibrosController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\PruebaLibreria\\Controllers\\LibrosController.cs",
               "RelativeDocumentMoniker": "PruebaLibreria\\Controllers\\LibrosController.cs",
@@ -96,31 +96,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RequestUsuario.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\PruebaLibreria\\Models\\RequestUsuario.cs",
               "RelativeDocumentMoniker": "PruebaLibreria\\Models\\RequestUsuario.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\PruebaLibreria\\Models\\RequestUsuario.cs",
               "RelativeToolTip": "PruebaLibreria\\Models\\RequestUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T12:33:22.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Request.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\PruebaLibreria\\Models\\Request.cs",
               "RelativeDocumentMoniker": "PruebaLibreria\\Models\\Request.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\PruebaLibreria\\Models\\Request.cs",
               "RelativeToolTip": "PruebaLibreria\\Models\\Request.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T09:36:31.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "FormatosController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\My Github\\APILibreria\\PruebaLibreria\\Controllers\\FormatosController.cs",
               "RelativeDocumentMoniker": "PruebaLibreria\\Controllers\\FormatosController.cs",
