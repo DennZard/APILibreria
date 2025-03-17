@@ -14,7 +14,7 @@ namespace PruebaLibreria.Controllers
 
         [HttpPut]
         [Route("registro")]
-        public Models.Response putLibros(Models.RequestUsuario request)
+        public Models.Response putLibros(Models.Request_UsuarioBanco request)
         {
             return dto.PutUsuario(request);
         }

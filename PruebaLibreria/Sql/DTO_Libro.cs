@@ -23,15 +23,15 @@ namespace PruebaLibreria.Sql
                 {
                     var t = new Models.Libro();
                     t.id = reader.GetFieldValue<int>(0);
-                    t.nombre= reader.GetFieldValue<String>(1);
-                    t.isbn = reader.GetFieldValue<String>(2);
+                    t.isbn = reader.GetFieldValue<String>(1);
+                    t.nombre= reader.GetFieldValue<String>(2);
                     t.cantidad = reader.GetFieldValue<int>(3);
-                    t.tema = reader.GetFieldValue<String>(4);
-                    t.formato = reader.GetFieldValue<String>(5);
-                    t.autor = reader.GetFieldValue<String>(6);
-                    t.edicion = reader.GetFieldValue<String>(7);
-                    t.precio = reader.GetFieldValue<Double>(8);
-                    t.imgName = reader.GetFieldValue<String>(1) + ".jpg";
+                    t.imgName = reader.GetFieldValue<String>(4);
+                    t.tema = reader.GetFieldValue<String>(5);
+                    t.formato = reader.GetFieldValue<String>(6);
+                    t.autor = reader.GetFieldValue<String>(7);
+                    t.edicion = reader.GetFieldValue<String>(8);
+                    t.precio = reader.GetFieldValue<Double>(9);
                     listaLibros.Add(t);
                 }
             }
@@ -52,8 +52,8 @@ namespace PruebaLibreria.Sql
             try
             {
                 var cmd = connection.CreateCommand();
-                var sql = @" call putLibro('nombre',autor,tema,
-                precio,edicion,formato,cantidad,'isbn')";
+                var sql = @" call putLibro('nombre','isbn', autor,tema,
+                precio,edicion,formato,cantidad,'imgname')";
                 sql = sql.Replace("nombre", request.nombre);
                 sql = sql.Replace("autor", request.autor);
                 sql = sql.Replace("tema", request.tema);
@@ -62,6 +62,7 @@ namespace PruebaLibreria.Sql
                 sql = sql.Replace("formato", request.formato);
                 sql = sql.Replace("cantidad", request.cantidad.ToString());
                 sql = sql.Replace("isbn", request.isbn);
+                sql = sql.Replace("imgname", request.imgname);
 
                 cmd.CommandText = sql;
 

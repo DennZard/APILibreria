@@ -229,6 +229,7 @@
     <Compile Include="Models\Request.cs" />
     <Compile Include="Models\RequestLibro.cs" />
     <Compile Include="Models\RequestUsuario.cs" />
+    <Compile Include="Models\Request_UsuarioBanco.cs" />
     <Compile Include="Models\Response.cs" />
     <Compile Include="Models\Tema.cs" />
     <Compile Include="Models\Usuario.cs" />

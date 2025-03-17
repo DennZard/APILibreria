@@ -13,7 +13,7 @@ namespace PruebaLibreria.Sql
     {
         public DTO_Usuario() { }
 
-        public Models.Response PutUsuario(Models.RequestUsuario request)
+        public Models.Response PutUsuario(Models.Request_UsuarioBanco request)
         {
             var response = new Models.Response();
             try
@@ -21,7 +21,7 @@ namespace PruebaLibreria.Sql
 
                 var crypt = cryptoPW(request.psw);
 
-                var cmd = connection.CreateCommand();
+                var cmd = connection.CreateCommand();   
                 var sql = @" call putUsuario('nombre', 'apellidos', 'cp','direccion', 'poblacion', 'dni', 'email','psw')";
                 sql = sql.Replace("nombre", request.nombre);
                 sql = sql.Replace("apellidos", request.apellidos);

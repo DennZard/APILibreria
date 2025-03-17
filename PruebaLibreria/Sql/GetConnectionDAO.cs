@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Configuration;
 
 namespace PruebaLibreria.Sql
 {
@@ -16,7 +17,12 @@ namespace PruebaLibreria.Sql
             try
             {
                 accessMysql = DAO.instance("libreria", "root", "");
-                connection = accessMysql.getConnection();
+
+                var cnnString = ConfigurationManager.AppSettings["CnnString"];
+                var Connection = new MySql.Data.MySqlClient.MySqlConnection();
+                Connection.ConnectionString = cnnString;
+                connection = Connection;
+                //connection = accessMysql.getConnection();
             }
             catch (Exception ex) 
             {

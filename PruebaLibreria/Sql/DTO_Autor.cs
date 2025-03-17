@@ -118,13 +118,20 @@ namespace PruebaLibreria
                 cmd.CommandText = sql;
 
                 connection.Open();
-                cmd.ExecuteNonQuery();
+                int num = cmd.ExecuteNonQuery();
 
-                response.ok = "Autor eliminado con exito";
-                // Cargamos el autores en el response
-                var autor = new Models.Autor();
-                autor.id = request.id;
-                response.data = autor;
+                if (num == 0)
+                {
+                    response.error = "No se pudo eliminar el autor";
+                }
+                else
+                {
+                    response.ok = "Autor eliminado con exito";
+                    // Cargamos el autores en el response
+                    var autor = new Models.Autor();
+                    autor.id = request.id;
+                    response.data = autor;
+                }
             }
             catch (Exception ex)
             {

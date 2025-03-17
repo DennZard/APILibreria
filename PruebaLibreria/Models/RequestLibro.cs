@@ -13,6 +13,7 @@ namespace PruebaLibreria.Models
         public String edicion { get; set; }
         public String isbn { get; set; }
         public int cantidad { get; set; }
+        public String imgname { get; set; }
         public Double precio {get; set;}
     }
 }
